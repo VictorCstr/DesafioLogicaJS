@@ -1,0 +1,17 @@
+#container{
+    background-color: ghostwhite;
+    margin: 0 auto;
+    width: 1080px;
+}
+
+#container div{
+    border: 1px solid rosybrown;
+    padding: 10px;
+    margin: 10px;
+}
+
+#container h1{
+    display: flex;
+    justify-content: center;
+}
+

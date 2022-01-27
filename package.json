@@ -1,0 +1,16 @@
+{
+  "name": "complementar-estoque",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "exercicios para logica",
+  "main": "listaProdutos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logica",
+    "estoque"
+  ],
+  "author": "Victor Castro",
+  "license": "ISC"
+}
