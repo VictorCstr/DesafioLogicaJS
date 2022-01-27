@@ -1,9 +1,3 @@
-https://drive.google.com/file/d/1JdIUaWFqmcJYi2n0UJlLeBZdmpkU12gG/view
-
-Hey Hackers
-
-Depois de muito suor nos estudos de Lógica de Programação e Javascript, vamos
-pôr todo esse conhecimento em prática para valer?
 Contexto: Fazemos parte de uma equipe de desenvolvimento de websites e fomos
 contratados para a criação de um site de catálogo de produtos. Agora precisamos
 definir algumas regras de negócio para nosso Comércio Eletrônico e para isso
@@ -62,12 +56,6 @@ uma lista de objetos que contenha o nome do departamento e o seu ticket
 médio). Este é um exercício difícil, porém é descomplicado de ser realizado
 tendo claro as demais saídas até então. Verifique a possibilidade de reutilizar
 parte da programação ou sua lógica trabalhada.
-
 14. Departamento mais valioso (qual o departamento que tem a maior somatória
 dos valores dos itens - Considere todos os departamentos)
 15. Departamento menos valioso (similar ao anterior)
-
-CHECKLIST DESENVOLVIMENTO
-1. Todos os códigos deverão estar em um repositório GIT de acesso público
-2. O arquivo contendo a lista de produtos estará disponível para todos com
-nome listaProdutos para que isso facilite seus testes. Acesse o arquivo.
